@@ -2,8 +2,8 @@
 
 Brief description or tagline about your web app.
 
-* githubpages link: https://projxyz.github.io/...
-* github-repo link: https://github.com/robclearyteach/demo_wb_2403
+* githubpages link: https://robclearyteach.github.io/myproject/
+* github-repo link: https://github.com/robclearyteach/myproject/
 
 ## Table of contents
 1.  Overview
