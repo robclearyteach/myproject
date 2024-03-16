@@ -1,0 +1,8 @@
+https://robclearyteach.github.io/demo_structured_stie/	                    
+https://robclearyteach.github.io/demo_structured_stie/index.html	        
+https://robclearyteach.github.io/demo_structured_stie/rooms/canyon.html	    
+https://robclearyteach.github.io/demo_structured_stie/rooms/javelina.html	
+https://robclearyteach.github.io/demo_structured_stie/rooms/juniper.html	
+https://robclearyteach.github.io/demo_structured_stie/events/weekend.html	
+https://robclearyteach.github.io/demo_structured_stie/events/festival.html	
+https://robclearyteach.github.io/demo_structured_stie/contact.html	            
