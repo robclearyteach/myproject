@@ -8,6 +8,9 @@
  
         nav{
             border: 3px solid purple;
+            display: grid;
+            grid-template-columns: 30% 70%;
+            grid-gap: 10px; /* Adjust the gap between columns */
         }
         nav ul{
             display: flex;
@@ -17,9 +20,10 @@
             padding-left: 0;
             width: 100%;
         }
-        nav-button-container{
+        #nav-button-container{
+            border: 1px solid grey;
             display: flex;
-            
+            justify-content: space-around;
         }
         #logo{
             border: 2px solid brown;
@@ -37,11 +41,8 @@
     </style>
 </head>
 <body>
-
   <header>
- 
         <nav>
-
             <div>
                 <div id="logo">
                     <a href="#"><img src="your_logo.png" alt="Logo"></a>
