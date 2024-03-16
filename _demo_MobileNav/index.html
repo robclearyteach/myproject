@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Header with Navigation</title>
+    <style>
+ 
+        nav{
+            border: 3px solid purple;
+        }
+        nav ul{
+            display: flex;
+            justify-content: end;
+            padding: 10px;
+            border: 3px solid blue;
+            padding-left: 0;
+            width: 100%;
+        }
+        nav-button-container{
+            display: flex;
+            
+        }
+        #logo{
+            border: 2px solid brown;
+            height: 50px;
+            width: 50px;
+            margin-right: auto;
+        }
+        nav li{
+            border: 1px solid red;
+            list-style-type:  none;
+            padding: 10px;
+            display: inline-block;
+        }
+
+    </style>
+</head>
+<body>
+
+  <header>
+ 
+        <nav>
+
+            <div>
+                <div id="logo">
+                    <a href="#"><img src="your_logo.png" alt="Logo"></a>
+                </div>
+                <div id="nav-button-container">
+                    <button><a href="#">Home</a>     </button>
+                    <button><a href="#">Standings</a></button>
+                    <button><a href="#">Gallery</a>  </button>
+                    <button><a href="#">Players</a>  </button>
+                </div>
+            </div>
+        </nav>
+  </header>
+
+</body>
+</html>
